@@ -1,0 +1,6 @@
+{
+  "name": "Aprende Trading - Guía Paso a Paso para Principiantes",
+  "description": "Tu punto de partida para dominar los mercados. Guía gratuita para empezar en XM Broker, unirte a la mejor comunidad de Discord y formarte con Slange Trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
