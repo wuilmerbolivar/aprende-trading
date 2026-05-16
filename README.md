@@ -1,7 +1,5 @@
 # Aprende Trading - Portal de Educación Financiera
 
-![Trading Guide](https://images.unsplash.com/photo-1611974717411-957bb7270d42?q=80&w=1200&auto=format&fit=crop)
-
 Este proyecto es un portal integral diseñado para guiar a traders principiantes desde cero hasta su primera operativa real. Combina recursos educativos, herramientas técnicas y acceso a una comunidad vibrante.
 
 ## 🚀 Características Principales
